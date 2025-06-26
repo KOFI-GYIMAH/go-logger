@@ -1,6 +1,6 @@
 module github.com/KOFI-GYIMAH/go-logger
 
-go 1.24.4
+go 1.23.0
 
 require github.com/fatih/color v1.18.0
 
